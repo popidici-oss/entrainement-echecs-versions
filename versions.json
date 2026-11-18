@@ -1,8 +1,8 @@
 {
- "version": "2026.11.12-5",
- "notes": "Relecture complète de la théorie (ouvertures, leçons, parties), lignes faibles réécrites, corrections de robustesse, et désormais l'annonce des nouvelles versions.",
- "page": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/tag/2026.11.12-5",
- "windows": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/2026.11.12-5/Installer-EntrainementEchecs.exe",
- "mac_apple": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/2026.11.12-5/EntrainementEchecs-Mac-AppleSilicon-2026.11.12-5.zip",
- "mac_intel": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/2026.11.12-5/EntrainementEchecs-Mac-Intel-2026.11.12-5.zip"
+ "version": "2026.11.17-1",
+ "notes": "Entraînement guidé par vos parties en ligne (les lignes ratées en partie reviennent plus souvent), réorganisation des variantes selon ce que vos adversaires jouent, vos fautes en partie mêlées aux problèmes de Tactique, choix des répertoires pour comparer, et de nombreuses corrections.",
+ "page": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/tag/2026.11.17-1",
+ "windows": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/2026.11.17-1/Installer-EntrainementEchecs.exe",
+ "mac_apple": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/2026.11.17-1/EntrainementEchecs-Mac-AppleSilicon-2026.11.17-1.zip",
+ "mac_intel": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/2026.11.17-1/EntrainementEchecs-Mac-Intel-2026.11.17-1.zip"
 }
