@@ -1,8 +1,10 @@
 {
- "version": "2026.11.17-1",
- "notes": "Entraînement guidé par vos parties en ligne (les lignes ratées en partie reviennent plus souvent), réorganisation des variantes selon ce que vos adversaires jouent, vos fautes en partie mêlées aux problèmes de Tactique, choix des répertoires pour comparer, et de nombreuses corrections.",
- "page": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/tag/2026.11.17-1",
- "windows": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/2026.11.17-1/Installer-EntrainementEchecs.exe",
- "mac_apple": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/2026.11.17-1/EntrainementEchecs-Mac-AppleSilicon-2026.11.17-1.zip",
- "mac_intel": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/2026.11.17-1/EntrainementEchecs-Mac-Intel-2026.11.17-1.zip"
+ "version": "2026.11.19-5",
+ "notes": "Partie contre Stockfish : revoir les positions pendant la partie, explorer des variantes après. Séance : une réussite suffit pour monter d'un palier, les lignes jumelles sont travaillées ensemble, le stade suivant est proposé. Lecture rapide, coups joués en lecture, recherche d'une position (FEN), repères de stade plus discrets. Nouveau réglage « Animations coup par coup ».",
+ "page": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/tag/2026.11.19-5",
+ "windows": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/2026.11.19-5/Installer-EntrainementEchecs.exe",
+ "mac_apple": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/2026.11.19-5/EntrainementEchecs-Mac-AppleSilicon-2026.11.19-5.zip",
+ "mac_intel": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/2026.11.19-5/EntrainementEchecs-Mac-Intel-2026.11.19-5.zip",
+ "windows_taille": 143786975,
+ "windows_sha256": "249a86502f4de8bc8d6844f0f859f3dfec12716848dd2c1f112185828af11cbd"
 }
