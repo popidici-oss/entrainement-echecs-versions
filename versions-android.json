@@ -1,8 +1,8 @@
 {
- "version": "2026.11.25-5",
- "code": 6,
- "apk": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/android-2026.11.25-5/entrainement-echecs.apk",
- "taille": 89366972,
- "sha256": "8e1265972b8c1a9b65024df321c167751fe7bcb9092ec73e20a9eb15a181be70",
- "notes": "Leçons (68 leçons : structures, finales, parties célèbres et de référence, avec exercices). Mes parties : bilan de vos ouvertures, liste de vos parties, Mes erreurs (Stockfish relève vos erreurs et en fait des exercices). Carte Aujourd'hui : choix des répertoires concernés."
+ "version": "2026.11.25-6",
+ "code": 7,
+ "apk": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/android-2026.11.25-6/entrainement-echecs.apk",
+ "taille": 89760368,
+ "sha256": "888b247388726c3029467083587371f67bffc5516b5eaa0b6e1cc1b624bd6695",
+ "notes": "Mes parties : avis de Stockfish sur les coups imprévus de vos adversaires, exercices Punir l'erreur, problèmes adaptés à vos erreurs, propositions de la Bibliothèque. Entraînement : réglages (essais, paliers, révisions), profondeur d'entraînement (stades), bouton Indice."
 }
