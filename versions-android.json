@@ -1,8 +1,8 @@
 {
- "version": "2026.11.25-1",
- "code": 2,
- "apk": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/android-2026.11.25-1/entrainement-echecs.apk",
- "taille": 63229090,
- "sha256": "7eddc77c70da1b85bc920952fbbeba03e1683aff11596293debfc0cac1a2f8e1",
- "notes": "Mise à jour en un clic : l'appli propose elle-même les nouvelles versions."
+ "version": "2026.11.25-2",
+ "code": 3,
+ "apk": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/android-2026.11.25-2/entrainement-echecs.apk",
+ "taille": 64032002,
+ "sha256": "061e1b76bf9d0a0a7dc234c61e7e7ce4368f2a68d5c36f34902a1aeb754990b2",
+ "notes": "Accueil « Aujourd'hui » (révisions du jour, apprendre la suite, jours d'affilée) ; boutons Apprendre et Réviser ; navigation en bas de l'écran et en glissant le doigt ; lignes du répertoire avec mise en pause ; apparence de l'échiquier ; exercice des coordonnées."
 }
