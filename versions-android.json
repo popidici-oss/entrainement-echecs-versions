@@ -1,8 +1,8 @@
 {
- "version": "2026.11.25-2",
- "code": 3,
- "apk": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/android-2026.11.25-2/entrainement-echecs.apk",
- "taille": 64032002,
- "sha256": "061e1b76bf9d0a0a7dc234c61e7e7ce4368f2a68d5c36f34902a1aeb754990b2",
- "notes": "Accueil « Aujourd'hui » (révisions du jour, apprendre la suite, jours d'affilée) ; boutons Apprendre et Réviser ; navigation en bas de l'écran et en glissant le doigt ; lignes du répertoire avec mise en pause ; apparence de l'échiquier ; exercice des coordonnées."
+ "version": "2026.11.25-3",
+ "code": 4,
+ "apk": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/android-2026.11.25-3/entrainement-echecs.apk",
+ "taille": 68992690,
+ "sha256": "0551324b1d87a00d60fb5b15696f5a2b33a6f428085ddf46b5d607116991e4c0",
+ "notes": "Tactique (problème du jour, séances, contre la montre, série sans faute) ; widget Problème du jour ; Mes parties : compte chess.com ou Lichess, pourcentages en barres, écarts et trous de vos répertoires, entraînement sur vos écarts."
 }
