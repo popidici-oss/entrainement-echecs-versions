@@ -1,8 +1,8 @@
 {
- "version": "2026.11.25-4",
- "code": 5,
- "apk": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/android-2026.11.25-4/entrainement-echecs.apk",
- "taille": 86991142,
- "sha256": "89d166b4ff3f0b06e0351d002beab77b9d034fdd447f923c4404cd9055641609",
- "notes": "Stockfish dans l'appli : finales contre Stockfish (leçon, exercice, indice) et parties contre Stockfish (800 à 2800 Elo, pendule, reprendre, nulle, abandon, parties enregistrées)."
+ "version": "2026.11.25-5",
+ "code": 6,
+ "apk": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/android-2026.11.25-5/entrainement-echecs.apk",
+ "taille": 89366972,
+ "sha256": "8e1265972b8c1a9b65024df321c167751fe7bcb9092ec73e20a9eb15a181be70",
+ "notes": "Leçons (68 leçons : structures, finales, parties célèbres et de référence, avec exercices). Mes parties : bilan de vos ouvertures, liste de vos parties, Mes erreurs (Stockfish relève vos erreurs et en fait des exercices). Carte Aujourd'hui : choix des répertoires concernés."
 }
