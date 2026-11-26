@@ -1,8 +1,8 @@
 {
- "version": "2026.11.25-7",
- "code": 8,
- "apk": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/android-2026.11.25-7/entrainement-echecs.apk",
- "taille": 90448676,
- "sha256": "bde04e13aebef15bfcca818fb86d5fcedbd6901bfa671e2921f6aaa1c3184596",
- "notes": "Réglages complets (échiquier, notation, taille du texte, délais, règles des ouvertures, de la tactique, des finales et de la séance), Progrès, temps d'entraînement, séance complète (et personnalisée), positions difficiles, analyse Stockfish pendant la lecture, exercices des parties célèbres posés pendant la partie."
+ "version": "2026.11.26-1",
+ "code": 9,
+ "apk": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/android-2026.11.26-1/entrainement-echecs.apk",
+ "taille": 90842088,
+ "sha256": "33b2f0dc2fd236ab24d13b6238fdfa942a393b77aa38df1b5f3ff32ee008aed0",
+ "notes": "Synchronisation avec le PC par le Wi-Fi de la maison : Réglages › Synchroniser avec le PC (code affiché par le logiciel du PC), puis automatique à l'accueil."
 }
