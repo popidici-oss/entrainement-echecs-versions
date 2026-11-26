@@ -1,8 +1,8 @@
 {
- "version": "2026.11.26-4",
- "code": 12,
- "apk": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/android-2026.11.26-4/entrainement-echecs.apk",
- "taille": 92166944,
- "sha256": "537caea43b3286d2b04eb3644eacc38f49eeaf670b612aba6425d29a332b438f",
- "notes": "Sons des coups ; ligne des coups en lecture ; jouer la position contre Stockfish ; chercher une position ; copier la FEN ; enregistrer le PGN ; Mes fautes dans la tactique ; mode d'emploi et premiers pas ; signaler un problème ; annotations au doigt ; courbe des coups ratés par jour."
+ "version": "2026.11.26-5",
+ "code": 13,
+ "apk": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/android-2026.11.26-5/entrainement-echecs.apk",
+ "taille": 92232480,
+ "sha256": "ca7f69439d2b8388ee9735bfc7d6c1aa62ee03486ea78472cce5e44ec8ee912e",
+ "notes": "Corrections issues de la relecture : premier son audible, rapport de problème sans pseudo ni chemins, recherche d'une position par FEN (loupe de Répertoires), et petites corrections."
 }
