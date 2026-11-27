@@ -1,10 +1,10 @@
 {
- "version": "2026.11.19-5",
- "notes": "Partie contre Stockfish : revoir les positions pendant la partie, explorer des variantes après. Séance : une réussite suffit pour monter d'un palier, les lignes jumelles sont travaillées ensemble, le stade suivant est proposé. Lecture rapide, coups joués en lecture, recherche d'une position (FEN), repères de stade plus discrets. Nouveau réglage « Animations coup par coup ».",
- "page": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/tag/2026.11.19-5",
- "windows": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/2026.11.19-5/Installer-EntrainementEchecs.exe",
- "mac_apple": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/2026.11.19-5/EntrainementEchecs-Mac-AppleSilicon-2026.11.19-5.zip",
- "mac_intel": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/2026.11.19-5/EntrainementEchecs-Mac-Intel-2026.11.19-5.zip",
- "windows_taille": 143786975,
- "windows_sha256": "249a86502f4de8bc8d6844f0f859f3dfec12716848dd2c1f112185828af11cbd"
+ "version": "2026.11.27-1",
+ "notes": "Relecture complète du logiciel : nombreuses corrections de fiabilité (analyses de vos fautes, réorganisation des répertoires, bilan de vos parties, leçons, séance personnalisée, changement de langue). Nouveau : fenêtre « Aujourd'hui » (révisions dues et lignes à apprendre), chapitres d'un répertoire et entraînement par chapitre, tableau de bord dans Progrès.",
+ "page": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/tag/2026.11.27-1",
+ "windows": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/2026.11.27-1/Installer-EntrainementEchecs.exe",
+ "mac_apple": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/2026.11.27-1/EntrainementEchecs-Mac-AppleSilicon-2026.11.27-1.zip",
+ "mac_intel": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/2026.11.27-1/EntrainementEchecs-Mac-Intel-2026.11.27-1.zip",
+ "windows_taille": 143897534,
+ "windows_sha256": "95b2248513d4a36dc4f8ef12bfb94b47904264d9e1aeec11622e95bd7fdc4c9f"
 }
