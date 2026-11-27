@@ -1,8 +1,8 @@
 {
- "version": "2026.11.27-1",
- "code": 15,
- "apk": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/android-2026.11.27-1/entrainement-echecs.apk",
+ "version": "2026.11.27-2",
+ "code": 16,
+ "apk": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/android-2026.11.27-2/entrainement-echecs.apk",
  "taille": 92265252,
- "sha256": "1fd71bff1c9509000a12dd829918039ed6564f615e9b40b5df3d670aad76df9e",
+ "sha256": "fcbac25aefa7d5e29f3e29fabcec29fe5c76cfac1e3a90fd55b2803879c76399",
  "notes": ""
 }
