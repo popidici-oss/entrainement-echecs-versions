@@ -1,8 +1,8 @@
 {
- "version": "2026.11.26-5",
- "code": 13,
- "apk": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/android-2026.11.26-5/entrainement-echecs.apk",
- "taille": 92232480,
- "sha256": "ca7f69439d2b8388ee9735bfc7d6c1aa62ee03486ea78472cce5e44ec8ee912e",
- "notes": "Corrections issues de la relecture : premier son audible, rapport de problème sans pseudo ni chemins, recherche d'une position par FEN (loupe de Répertoires), et petites corrections."
+ "version": "2026.11.27-1",
+ "code": 15,
+ "apk": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/android-2026.11.27-1/entrainement-echecs.apk",
+ "taille": 92265252,
+ "sha256": "1fd71bff1c9509000a12dd829918039ed6564f615e9b40b5df3d670aad76df9e",
+ "notes": ""
 }
