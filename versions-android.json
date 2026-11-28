@@ -1,8 +1,8 @@
 {
- "version": "2026.11.28-1",
- "code": 18,
- "apk": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/android-2026.11.28-1/entrainement-echecs.apk",
- "taille": 92527464,
- "sha256": "e831831593ffda557cbd4e655815f6f9a1c2b64cd1c9ee5ea9977df441883a66",
- "notes": "Séance du jour : plusieurs leçons de finale à la suite. Ouvertures : les réponses de l'adversaire se jouent coup par coup avec « Coup suivant » (réglage « Réponses de l'adversaire coup par coup »). Après la deuxième erreur, la flèche du coup attendu reste visible (bouton Continuer au lieu d'une fenêtre)."
+ "version": "2026.11.28-2",
+ "code": 19,
+ "apk": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/android-2026.11.28-2/entrainement-echecs.apk",
+ "taille": 92576640,
+ "sha256": "d7f3b154700b7db96596f5484b2b8f9c0f00ef2819843d50c33f3f634f8c1760",
+ "notes": "Mode enfant : deux nouveaux mondes (Échec au roi, Mat en 1), niveaux dame et cavalier dans « Attention ! », consignes lues à voix haute (🔊 pour réécouter, 🔇 pour couper)."
 }
