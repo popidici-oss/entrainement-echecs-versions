@@ -1,10 +1,10 @@
 {
- "version": "2026.11.27-2",
- "notes": "Progrès : la progression se compte maintenant palier par palier (coups maîtrisés, paliers franchis), au lieu des seules lignes entièrement sues, qui restaient longtemps à zéro.",
- "page": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/tag/2026.11.27-2",
- "windows": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/2026.11.27-2/Installer-EntrainementEchecs.exe",
- "mac_apple": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/2026.11.27-2/EntrainementEchecs-Mac-AppleSilicon-2026.11.27-2.zip",
- "mac_intel": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/2026.11.27-2/EntrainementEchecs-Mac-Intel-2026.11.27-2.zip",
- "windows_taille": 143906565,
- "windows_sha256": "8726c69a84bdc1215c640d8037a67de5d1f12c453875d696ff0a8b7bda686b83"
+ "version": "2026.11.28-1",
+ "notes": "Interface modernisée : barres de défilement plates, panneau de gauche plus lisible sur grand écran, indications dans les zones vides, date du bandeau lisible, tableau de bord de Progrès sur deux rangées. Mode d'emploi : « Ajouter un fichier de contenu » expliqué en détail.",
+ "page": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/tag/2026.11.28-1",
+ "windows": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/2026.11.28-1/Installer-EntrainementEchecs.exe",
+ "mac_apple": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/2026.11.28-1/EntrainementEchecs-Mac-AppleSilicon-2026.11.28-1.zip",
+ "mac_intel": "https://github.com/popidici-oss/entrainement-echecs-versions/releases/download/2026.11.28-1/EntrainementEchecs-Mac-Intel-2026.11.28-1.zip",
+ "windows_taille": 144071640,
+ "windows_sha256": "3f5891f0ddda4ab8a95f35bb95c25e6857ab8879fef664f39c853c536339e51b"
 }
